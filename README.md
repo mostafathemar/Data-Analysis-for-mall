@@ -3,8 +3,7 @@
 ## Project Description
 In this project, I explore and analyze a dataset containing mall customer reviews. The objective is to extract meaningful insights from this dataset such as common features, top pros and cons, distribution of reviews based on ratings, and total number of reviews analyzed per data source.
 
-##Dataset Description
-The dataset includes the following columns:
+## Dataset Description The dataset includes the following columns:
 
 1. web-scraper-order
 2. product-link
