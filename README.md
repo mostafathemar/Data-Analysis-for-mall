@@ -42,7 +42,7 @@ In this project, I explore and analyze a dataset containing mall customer review
 - Convert all Characters to Lowe Case.
 - Remove Stopwords.
 - Remove Punctuation.
-- Stemmening.
+- Stemming.
 -Lemmatization.
 
 # Featurization
@@ -60,10 +60,14 @@ In this project, I explore and analyze a dataset containing mall customer review
 1. Clone this repository.
 2. Download the dataset from Kaggle and put it in the same directory as the notebook.
 3. Install the necessary Python packages. You can do this by running `pip install -r requirements.txt` (if you have pip installed) or `conda install --file requirements.txt` (if you're using the Anaconda distribution of Python).
-4. Open the Jupyter notebook and run the cells to see the project in action.
+4. Open the Jupyter Notebook and run the cells to see the project in action.
 
 # Authors and Acknowledgment
 - Independent project for the client (srikesh.datta@piovis.com).
 - Copy Write By Mostafa Tehamer.
 
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
+# Contact
+For any queries, please feel free to reach out to us at mostafathemar@email.com.
